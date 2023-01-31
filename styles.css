@@ -1,0 +1,67 @@
+.navbar-nav {
+    flex-direction: row;
+    margin: 7px;
+}
+
+.nav-item {
+    padding: 7px;
+}
+
+.my {
+    margin-right: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.par {
+    margin: 7px;
+    padding: 7px;
+}
+
+.card {
+    margin: 7px;
+}
+
+.navbar {
+    align-content: space-around;
+}
+
+.home {
+    margin: 7px;
+    padding: 7px;
+}
+
+.thoughts {
+    width: 60%;
+    margin: 7px;
+}
+
+.d-flex  {
+    justify-content: center;
+}
+
+.addBtn {
+    margin: 7px;
+}
+
+.Text {
+    margin: 7px;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+#submit {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: 14px;
+    float: right;
+}
+
+.mb-3 {
+    margin: 7px;
+    padding: 7px;
+}
